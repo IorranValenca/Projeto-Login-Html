@@ -1,0 +1,19 @@
+
+body{
+        background-color: rgb(226, 226, 226);
+        color: rgb(0, 0, 0);
+    }
+.botao {
+    background-color: rgb(20, 78, 20);
+}
+.reset{
+    background-color: rgb(173, 22, 52);
+}
+
+#login header h1 {
+    color: rgb(133, 21, 21);
+}
+
+*{
+    color: rgb(0, 0, 0);
+}
